@@ -44,6 +44,5 @@ NotesApp allows users to create, edit, search, star, and delete notes all stored
 
 **Raneem Alomair**  
 iOS Developer | Apple Developer Academy Alumna  
-📍 Riyadh, Saudi Arabia  
 🔗 [raneemalomair.framer.website](https://raneemalomair.framer.website)
 
